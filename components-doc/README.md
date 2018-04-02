@@ -2,10 +2,10 @@
 ===
 
 Имеется набор компонентов, которые облегчают создание 
-элементов формы: TextInput, RadioGroup, DateInput.
-Используя PropTypes задать для существуюших компонентов TextInput, RadioGroup и 
-DateInput подходящие правила валидации. DateInput должен так 
-же иметь defaultProps, позволяющий отобразить текущую дату.
+элементов формы: `TextInput`, `RadioGroup`, `DateInput`.
+Используя `PropTypes` задать для существуюших компонентов `TextInput`, `RadioGroup` и 
+`DateInput` подходящие правила валидации. `DateInput` должен так 
+же иметь `defaultProps`, позволяющий отобразить текущую дату.
 
 ## Реализация
 

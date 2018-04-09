@@ -34,7 +34,7 @@ const Form = (props) => {
         <div className="form-check">
           <input type="checkbox" className="form-check-input" id="isMarried" name="is_married"
                  onChange={props.handleChange} checked={props.is_married}/>
-          <label className="form-check-label" htmlFor="isMarried">Married</label>
+          <label className="form-check-label" htmlFor="isMarried">Женат</label>
         </div>
         <button type="submit" className="btn btn-primary mt-2 float-right">Обновить</button>
       </form>
